@@ -1,42 +1,67 @@
 # Portfolio
+![Photo](images/photo-short.png)
+
+<h1>Javier A. Rosado Baltazar</h1>  
+
+**Developer .Net:** .Net Framework | .Net Core 3, 6  
+**Developer Java:** Java Spring Framework | Spring Cloud  
+**Developer Node:** NestJS Framework  
+Developer Sr | IT Project Manager | Scrum Master  
+
+## Overview
+Resumen del portfolio, como se presenta, como se combinan y que tiene cada una de las aplicaciones
+
+
 ## API Rest con Java Spring Framework
-Aplicaciones PoC:
-+ [api_spring_crud_mysql](https://ejemplo.com/ "Repositorio de código")
-+ [api_spring_crud_sqlserver](https://ejemplo.com/ "Repositorio de código")
-+ [api_spring_crud_mariadb](https://ejemplo.com/ "Repositorio de código")
-+ [api_spring_crud_oracle](https://ejemplo.com/ "Repositorio de código")
-+ [api_spring_crud_mongodb](https://ejemplo.com/ "Repositorio de código")
-+ [api_spring_crud_redis  ](https://ejemplo.com/ "Repositorio de código")
+### Applications PoC:
++ [api_spring_crud_mysql](https://github.com/jrosadob-portfolio/api_spring_crud_mysql.git "Repository")
++ [api_spring_crud_sqlserver](https://github.com/jrosadob/jrosadob.github.io/blob/main/README.md "Repository")
++ [api_spring_crud_mariadb](https://ejemplo.com/ "Repository")
++ [api_spring_crud_oracle](https://ejemplo.com/ "Repository")
++ [api_spring_crud_mongodb](https://ejemplo.com/ "Repository")
++ [api_spring_crud_redis  ](https://ejemplo.com/ "Repository")
+### Maven Packages
++ Maven Packages 1
++ Maven Packages 2
 
 ## API Rest con .Net Core
-Aplicaciones PoC:
-+ [api_netcore_crud_mysql](https://ejemplo.com/ "Repositorio de código")
-+ [api_netcore_crud_sqlserver](https://ejemplo.com/ "Repositorio de código")
-+ [api_netcore_crud_mariadb](https://ejemplo.com/ "Repositorio de código")
-+ [api_netcore_crud_oracle](https://ejemplo.com/ "Repositorio de código")
-+ [api_netcore_crud_mongodb](https://ejemplo.com/ "Repositorio de código")
-+ [api_netcore_crud_redis](https://ejemplo.com/ "Repositorio de código")
+### Applications PoC:
++ [api_netcore_crud_mysql](https://ejemplo.com/ "Repository")
++ [api_netcore_crud_sqlserver](https://ejemplo.com/ "Repository")
++ [api_netcore_crud_mariadb](https://ejemplo.com/ "Repository")
++ [api_netcore_crud_oracle](https://ejemplo.com/ "Repository")
++ [api_netcore_crud_mongodb](https://ejemplo.com/ "Repository")
++ [api_netcore_crud_redis](https://ejemplo.com/ "Repository")
+### Nuget Pacakges
++ Nuget Packages 1
++ Nuget Packages 2
 
 ## API Rest con NestJS
-Aplicaciones PoC:
-+ [api_netcore_crud_mysql](https://ejemplo.com/ "Repositorio de código")
-+ [api_netcore_crud_sqlserver](https://ejemplo.com/ "Repositorio de código")
-+ [api_netcore_crud_mariadb](https://ejemplo.com/ "Repositorio de código")
-+ [api_netcore_crud_oracle](https://ejemplo.com/ "Repositorio de código")
-+ [api_netcore_crud_mongodb](https://ejemplo.com/ "Repositorio de código")
-+ [api_netcore_crud_redis](https://ejemplo.com/ "Repositorio de código")
+### Applications PoC:
++ [api_netcore_crud_mysql](https://ejemplo.com/ "Repository")
++ [api_netcore_crud_sqlserver](https://ejemplo.com/ "Repository")
++ [api_netcore_crud_mariadb](https://ejemplo.com/ "Repository")
++ [api_netcore_crud_oracle](https://ejemplo.com/ "Repository")
++ [api_netcore_crud_mongodb](https://ejemplo.com/ "Repository")
++ [api_netcore_crud_redis](https://ejemplo.com/ "Repository")
+### Libraries NPM:
++ Library 01
++ Library 02
 
 ## Application Architecture
 ### With .Net Core
-+ [Layered Architecture](https://ejemplo.com/ "Repositorio de código")
+Applications PoC:
++ [Layered Architecture](https://ejemplo.com/ "Repository")
 + Hexagonal Architecture
 + Clean Architecture
 ### With Java Spring Framework
-+ [Layered Architecture](https://ejemplo.com/ "Repositorio de código")
-+ [Hexagonal Architecture](https://ejemplo.com/ "Repositorio de código")
-+ [Clean Architecture](https://ejemplo.com/ "Repositorio de código")
+Applications PoC:
++ [Layered Architecture](https://ejemplo.com/ "Repository")
++ [Hexagonal Architecture](https://ejemplo.com/ "Repository")
++ [Clean Architecture](https://ejemplo.com/ "Repository")
 ### With NestJS 
-+ [Layered Architecture](https://ejemplo.com/ "Repositorio de código")
+Applications PoC:
++ [Layered Architecture](https://ejemplo.com/ "Repository")
 + Hexagonal Architecture
 + Clean Architecture
 ### Modelado BPM with Bizagi
@@ -44,7 +69,7 @@ Aplicaciones PoC:
 + Proceso de Xxxxx
 ### The C4 model for visualising software architecture
 + PlantUML (Demo diagrams)
-+ PuntosShoping (Application diagrams)
++ PuntosShoping (Application diagrams with c4model)
 ### OpenAPI
 + 
 
