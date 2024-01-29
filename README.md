@@ -42,7 +42,7 @@ Aplicaciones PoC:
 ### Modelado BPM with Bizagi
 + Proceso de Xxxxx
 + Proceso de Xxxxx
-### Modelado para visualizar la arquitectura de software
+### The C4 model for visualising software architecture
 + PlantUML (Demo diagrams)
 + PuntosShoping (Application diagrams)
 ### OpenAPI
