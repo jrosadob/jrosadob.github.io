@@ -62,22 +62,6 @@ En este sección se incluiran servicios orientados a los microservicios, elabora
 + Spring Cloud Gateway
 + Resilience4J
 
-
-<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}  
-  
-    
-
-+ assdsd
-
-<span style="color:blue">some *blue* text</span>
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p> -->
-
-<!-- <style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style> -->
-
 TODOs:
 - <r>TODO:</r> Important thing to do
 - <o>TODO:</o> Less important thing to do
