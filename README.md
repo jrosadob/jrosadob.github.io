@@ -40,12 +40,12 @@ Resumen del portfolio, como se presenta, como se combinan y que tiene cada una d
 
 ## API Rest con NestJS
 ### Applications PoC:
-+ [api_netcore_crud_mysql](https://ejemplo.com/ "Repository")
-+ [api_netcore_crud_sqlserver](https://ejemplo.com/ "Repository")
-+ [api_netcore_crud_mariadb](https://ejemplo.com/ "Repository")
-+ [api_netcore_crud_oracle](https://ejemplo.com/ "Repository")
-+ [api_netcore_crud_mongodb](https://ejemplo.com/ "Repository")
-+ [api_netcore_crud_redis](https://ejemplo.com/ "Repository")
++ [api_nestjs_crud_mysql](https://github.com/jrosadob-portfolio/api_nestjs_crud_mysql.git "Repository")
++ [api_nestjs_crud_sqlserver](https://github.com/jrosadob-portfolio/api_nestjs_crud_sqlserver.git "Repository")
++ [api_nestjs_crud_mariadb](https://github.com/jrosadob-portfolio/api_nestjs_crud_mariadb.git "Repository")
++ [api_nestjs_crud_oracle](https://github.com/jrosadob-portfolio/api_nestjs_crud_oracle.git "Repository")
++ [api_nestjs_crud_mongodb](https://github.com/jrosadob-portfolio/api_nestjs_crud_mongodb.git "Repository")
++ [api_nestjs_crud_redis](https://github.com/jrosadob-portfolio/api_nestjs_crud_redis.git "Repository")
 
 ### Libraries NPM:
 + Library 01
@@ -95,6 +95,12 @@ En este sección se incluiran servicios orientados a los microservicios, elabora
 + Hystrix
 + Spring Cloud Gateway
 + Resilience4J
+
+## Other projects
++ Wraper Angular de Jitsi meet
++ Projecto de viajes
++ Projecto de charges
++ RvPrint Solution
 
 TODOs:
 - <r>TODO:</r> Important thing to do
