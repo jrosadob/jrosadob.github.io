@@ -20,6 +20,7 @@ Resumen del portfolio, como se presenta, como se combinan y que tiene cada una d
 + [api_spring_crud_oracle](https://ejemplo.com/ "Repository")
 + [api_spring_crud_mongodb](https://ejemplo.com/ "Repository")
 + [api_spring_crud_redis  ](https://ejemplo.com/ "Repository")
+
 ### Maven Packages
 + Maven Packages 1
 + Maven Packages 2
@@ -32,6 +33,7 @@ Resumen del portfolio, como se presenta, como se combinan y que tiene cada una d
 + [api_netcore_crud_oracle](https://ejemplo.com/ "Repository")
 + [api_netcore_crud_mongodb](https://ejemplo.com/ "Repository")
 + [api_netcore_crud_redis](https://ejemplo.com/ "Repository")
+
 ### Nuget Pacakges
 + Nuget Packages 1
 + Nuget Packages 2
@@ -44,6 +46,7 @@ Resumen del portfolio, como se presenta, como se combinan y que tiene cada una d
 + [api_netcore_crud_oracle](https://ejemplo.com/ "Repository")
 + [api_netcore_crud_mongodb](https://ejemplo.com/ "Repository")
 + [api_netcore_crud_redis](https://ejemplo.com/ "Repository")
+
 ### Libraries NPM:
 + Library 01
 + Library 02
@@ -54,22 +57,27 @@ Applications PoC:
 + [Layered Architecture](https://ejemplo.com/ "Repository")
 + Hexagonal Architecture
 + Clean Architecture
+
 ### With Java Spring Framework
 Applications PoC:
 + [Layered Architecture](https://ejemplo.com/ "Repository")
 + [Hexagonal Architecture](https://ejemplo.com/ "Repository")
 + [Clean Architecture](https://ejemplo.com/ "Repository")
+
 ### With NestJS 
 Applications PoC:
 + [Layered Architecture](https://ejemplo.com/ "Repository")
 + Hexagonal Architecture
 + Clean Architecture
+
 ### Modelado BPM with Bizagi
 + Proceso de Xxxxx
 + Proceso de Xxxxx
+
 ### The C4 model for visualising software architecture
 + PlantUML (Demo diagrams)
 + PuntosShoping (Application diagrams with c4model)
+
 ### OpenAPI
 + 
 
@@ -78,6 +86,7 @@ En este sección se incluiran servicios orientados a los microservicios, elabora
 + Java Spring Framework
 + Net Core
 + NestJS  
+
 ### Services
 + Spring Config Server
 + Spring Config Client
