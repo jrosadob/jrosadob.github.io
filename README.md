@@ -15,7 +15,7 @@ Relación de proyectos demostrativos, pruebas de concepto en diferentes lenguaje
 Este portfolio es de reciente creación y aún estoy revisando los repositorios para ver si son funcionales y contienen código seguro para fines demostrativos.
 Desde hace algún tiempo ya estoy usando SonarLint para el desarrollo y poder así generar código seguro.
 
-## API Rest con Java Spring Framework
+## <img src="./images/logos/logo-spring.svg" width="40" height="40"> API Rest con Java Spring Framework
 ### Applications:
 + [api_spring_crud_mysql](https://github.com/jrosadob-portfolio/api_spring_crud_mysql.git "Repository")
 + [api_spring_crud_sqlserver](https://github.com/jrosadob/jrosadob.github.io/blob/main/README.md "Repository")
@@ -23,14 +23,17 @@ Desde hace algún tiempo ya estoy usando SonarLint para el desarrollo y poder as
 + [api_spring_crud_oracle](https://ejemplo.com/ "Repository")
 + [api_spring_crud_mongodb](https://ejemplo.com/ "Repository")
 + [api_spring_crud_redis](https://ejemplo.com/ "Repository")
-+ [API with Spring Batch using Tasklet][ApiSpringBatchTaskletRepository]
++ [API with Spring Batch using Tasklet][ApiSpringBatchTaskletRepository]  
+  Ejemplo de Spring Batch usando Tasklet. Provee un endpoint para subir un archivo zip que contiene un archivo de datos en formato CSV, la aplicación ejecutará un proceso batch, que descomprimirá el archivo y cargará el contenido del archivo CSV en una base de datos MySQL.
 + [API with Spring Batch using Chunk][ApiSpringBatchChunkRepository]
 + [API with Spring Batch using Conditional Flow][ApiSpringBatchConditionalFlowRepository]
++ [Spring Scheduler][SpringSchedulerRepository]
+
 ### Maven Packages
 + Maven Packages 1><<a  >>
 + Maven Packages 2
 
-## API Rest con .Net Core
+## <img src="./images/logos/logo-netcore.svg" width="40" height="40"> API Rest con .Net Core
 ### Applications:
 + [api_netcore_crud_mysql](https://ejemplo.com/ "Repository")
 + [api_netcore_crud_sqlserver](https://ejemplo.com/ "Repository")
@@ -43,7 +46,7 @@ Desde hace algún tiempo ya estoy usando SonarLint para el desarrollo y poder as
 + Nuget Packages 1
 + Nuget Packages 2
 
-## API Rest con NestJS
+## <img src="./images/logos/logo-nestjs.svg" width="40" height="40"> API Rest with NestJS1
 ### Applications:
 + [api_nestjs_crud_mysql](https://github.com/jrosadob-portfolio/api_nestjs_crud_mysql.git "Repository")
 + [api_nestjs_crud_sqlserver](https://github.com/jrosadob-portfolio/api_nestjs_crud_sqlserver.git "Repository")
@@ -57,29 +60,29 @@ Desde hace algún tiempo ya estoy usando SonarLint para el desarrollo y poder as
 + Library 02
 
 ## Application Architecture
-### With .Net Core
+### <img src="./images/logos/logo-netcore.svg" width="40" height="40"> With .Net Core
 Applications:
 + [Layered Architecture](https://ejemplo.com/ "Repository")
 + Hexagonal Architecture
 + Clean Architecture
 
-### With Java Spring Framework
+### <img src="./images/logos/logo-spring.svg" width="40" height="40"> With Java Spring Framework
 Applications:
 + [Layered Architecture](https://ejemplo.com/ "Repository")
 + [Hexagonal Architecture](https://ejemplo.com/ "Repository")
 + [Clean Architecture](https://ejemplo.com/ "Repository")
 
-### With NestJS 
+### <img src="./images/logos/logo-nestjs.svg" width="40" height="40"> With NestJS 
 Applications:
 + [Layered Architecture](https://ejemplo.com/ "Repository")
 + Hexagonal Architecture
 + Clean Architecture
 
-### Modelado BPM with Bizagi
+### <img src="./images/logos/logo-bizagi.svg" width="80" height="27S"> Modelado BPM with Bizagi
 + Proceso de Xxxxx
 + Proceso de Xxxxx
 
-### The C4 model for visualising software architecture
+### <img src="./images/logos/logo-c4model.jpg" width="40" height="40"> The C4 model for visualising software architecture
 + PlantUML (Demo diagrams)
 + PuntosShoping (Application diagrams with c4model)
 
@@ -110,19 +113,28 @@ En este sección se incluiran servicios orientados a los microservicios, elabora
 + NestJS  
 
 ### Services
-+ Spring Config Server
-+ Spring Config Client
-+ Eureka Server
++ [Spring Config Server][AppSpringConfigServer]
++ [Spring Config Client][AppSpringConfigClient]
++ [Eureka Server][AppEurekaServer]
 + Zuul Gateway
 + Hystrix
-+ Spring Cloud Gateway
 + Resilience4J
++ [Spring Cloud Gateway][AppSpringCloudGateway]
 
 ## Other projects
 + Wraper Angular de Jitsi meet
-+ Projecto de viajes
-+ Projecto de charges
++ Projecto de Agencia de viajes
++ Projecto de Cobranzas
 + RvPrint Solution
+
+
+## Owner readme
+Notas y documentación propia en formato README.md  
+Los repositorios son privados.
++ [Git][ReadmeGitRepository]
++ [Typescript][ReadmeTypescriptRepository]
++ [Docker & Docker Compose][ReadmeDockerRepository]
++ [Kubernetes][ReadmeKubernetesRepository]
 
 <!-- Repositories -->
 [LinkRepository]: https://github.com
@@ -131,6 +143,20 @@ En este sección se incluiran servicios orientados a los microservicios, elabora
 [ApiSpringBatchTaskletRepository]: https://github.com/jrosadob-portfolio/api_spring_batch_tasklet
 [ApiSpringBatchChunkRepository]: https://github.com/jrosadob-portfolio/api_spring_batch_chunk
 [ApiSpringBatchConditionalFlowRepository]: https://github.com/jrosadob-portfolio/api_spring_batch_conditional_flow
+[AppSpringSchedulerRepository]: https://github.com/jrosadob-portfolio/app_spring_scheduler
+
+[AppSpringConfigServer]: https://github.com/jrosadob-portfolio/app_spring_config_server
+[AppSpringConfigClient]: https://github.com/jrosadob-portfolio/app_spring_config_client
+[AppEurekaServer]: https://github.com/jrosadob-portfolio/app_spring_eureka_server
+[AppSpringCloudGateway]: https://github.com/jrosadob-portfolio/app_spring_cloud_gateway
+
+
+
+[ReadmeGitRepository]: https://github.com/jrosadob-readme/git
+[ReadmeTypescriptRepository]: https://github.com/jrosadob-readme/git
+[ReadmeDockerRepository]: https://github.com/jrosadob-readme/git
+[ReadmeKubernetesRepository]: https://github.com/jrosadob-readme/git
+
 
 [NetCoreCrudMySqlRepository]: 
 [NetCoreCrudSqlServerRepository]: 
