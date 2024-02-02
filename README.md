@@ -83,8 +83,16 @@ Applications:
 + Proceso de Xxxxx
 
 ### <img src="./images/logos/logo-c4model.jpg" width="40" height="40"> The C4 model for visualising software architecture
-+ PlantUML (Demo diagrams)
-+ PuntosShoping (Application diagrams with c4model)
++ [PlantUML (Demo diagrams)][PlantUMLRepository]  
+  Códigos de ejemplo para la elaboración de diagramas c4model.
+  + Diagramas de contexto.
+  + Diagramos de contenedor.
+  + Diagramas de componentes.
+  + Leyendas, Sprites, elementos, enlaces, relaciones, iconos, etc.
++ [PuntosShoping (Application diagrams with c4model)][ShoppingPointsRepository]
+  Diagramas de muestra de la solución PuntosShopping.
+  + Diagramas de contexto.
+  + Diagramos de contenedor.
 
 ### OpenAPI
 + [Open API][OpenApiRepository]
@@ -150,19 +158,18 @@ Los repositorios son privados.
 [AppEurekaServer]: https://github.com/jrosadob-portfolio/app_spring_eureka_server
 [AppSpringCloudGateway]: https://github.com/jrosadob-portfolio/app_spring_cloud_gateway
 
-
-
 [ReadmeGitRepository]: https://github.com/jrosadob-readme/git
 [ReadmeTypescriptRepository]: https://github.com/jrosadob-readme/git
 [ReadmeDockerRepository]: https://github.com/jrosadob-readme/git
 [ReadmeKubernetesRepository]: https://github.com/jrosadob-readme/git
 
+[PlantUMLRepository]: https://github.com/jrosadob-portfolio/plant-uml.git
+[ShoppingPointsRepository]: https://github.com/jrosadob-portfolio/shopping-points.git
 
 [NetCoreCrudMySqlRepository]: 
 [NetCoreCrudSqlServerRepository]: 
 [NetCoreCrudMariaDbRepository]: 
 [NetCoreCrudMongoDbRepository]: 
-
 
 
 
