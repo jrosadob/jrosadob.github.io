@@ -23,9 +23,9 @@ Desde hace algún tiempo ya estoy usando SonarLint para el desarrollo y poder as
 + [api_spring_crud_oracle](https://ejemplo.com/ "Repository")
 + [api_spring_crud_mongodb](https://ejemplo.com/ "Repository")
 + [api_spring_crud_redis](https://ejemplo.com/ "Repository")
-+ [spring_batch_tasklet](https://ejemplo.com/ "Repository")
-+ [spring_batch_chunk](https://ejemplo.com/ "Repository")
-+ [spring_batch_flow_execution](https://ejemplo.com/ "Repository")
++ [API with Spring Batch using Tasklet][ApiSpringBatchTaskletRepository]
++ [API with Spring Batch using Chunk][ApiSpringBatchChunkRepository]
++ [API with Spring Batch using Conditional Flow][ApiSpringBatchConditionalFlowRepository]
 ### Maven Packages
 + Maven Packages 1><<a  >>
 + Maven Packages 2
@@ -127,6 +127,11 @@ En este sección se incluiran servicios orientados a los microservicios, elabora
 <!-- Repositories -->
 [LinkRepository]: https://github.com
 [OpenApiRepository]: https://github.com/jrosadob-portfolio/open-api
+
+[ApiSpringBatchTaskletRepository]: https://github.com/jrosadob-portfolio/api_spring_batch_tasklet
+[ApiSpringBatchChunkRepository]: https://github.com/jrosadob-portfolio/api_spring_batch_chunk
+[ApiSpringBatchConditionalFlowRepository]: https://github.com/jrosadob-portfolio/api_spring_batch_conditional_flow
+
 [NetCoreCrudMySqlRepository]: 
 [NetCoreCrudSqlServerRepository]: 
 [NetCoreCrudMariaDbRepository]: 
